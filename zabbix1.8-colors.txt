@@ -1,0 +1,5 @@
+Installation Instructions (only for Zabbix 1.8.x)
+
+    Download zabbix1.8-colors.zip (all colors included) and extract on your computer
+    Upload the 3 image files from your favorite color to FTP on directory /images/gradients/
+    Reload the Page. Some browsers can need to force the refresh (CTRL+F5 or CTRL+R)
